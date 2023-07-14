@@ -1,5 +1,8 @@
 # scratch-getdata-server
 
+Please go to https://github.com/scratch-getdata/scratch-getdata-server instead!
+-
+
 Note: Some code are hidden.
 -
 
